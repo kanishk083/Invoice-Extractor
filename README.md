@@ -1,4 +1,4 @@
-#  Invoice Extractor : Invoice Understanding Nodel
+#  Invoice Extractor : Invoice Understanding Model
 
 The **Invoice Extractor** is an GENAI Streamlit application that intelligently reads invoices whether clean PDFs or low-quality scanned images and extracts all the important information automatically.  
 Powered by **Google Gemini**, this tool transforms any invoice into a clear, human-friendly explanation and summary.
